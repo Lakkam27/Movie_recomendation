@@ -1,0 +1,6 @@
+# Ignore PyCharm/IDEA settings
+.idea/
+
+# Ignore all pickle files
+ movie_list.pkl
+ similarity.pkl
